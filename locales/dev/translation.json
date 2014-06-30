@@ -1,0 +1,7 @@
+{
+  "Hello": "Hello has a child",
+  "friend_context": "A friend",
+  "friend_context_male": "A boyfriend",
+  "friend_context_female": "A girlfriend",
+  "Hello_plural": "Hello has __count__ children"
+}
