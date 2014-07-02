@@ -1,4 +1,5 @@
-define(['helper/browserLanguageDetect','helper/i18next.amd'], function (currentLanguage, i18n) {
+define(['helper/browserLanguageDetect','helper/i18next.amd'], 
+  function (currentLanguage, i18n) {
 
 	var onDropDownChange = function(evt){
 
